@@ -1,2 +1,2 @@
 // The greeting shown on the page. Connector tests usually ask to change this line.
-document.getElementById('greeting').textContent = 'Hello from the Kringl playground';
+document.getElementById('greeting').textContent = 'Hello from Kringl tests';
