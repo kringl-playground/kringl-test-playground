@@ -29,3 +29,5 @@ has to start it by hand.
 A session should not create or change Monday items on its own initiative. The `monday` MCP is
 available for reading boards, items and updates freely; creating or changing an item is only
 for when a person explicitly asked for it in the conversation.
+
+Writing an update on an item that already has a session does not open a new one: it resumes the existing conversation with that update as the next message.
