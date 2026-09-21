@@ -31,3 +31,5 @@ available for reading boards, items and updates freely; creating or changing an 
 for when a person explicitly asked for it in the conversation.
 
 Writing an update on an item that already has a session does not open a new one: it resumes the existing conversation with that update as the next message.
+
+An update written here wakes the session and continues it from where it left off.
